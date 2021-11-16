@@ -5,7 +5,9 @@ App that uses the pomodoro technique to help with time management
 
 ### Features
 Gives users the ability to set their own work and break time
+
 Timer counts down and displays if user should be working or breaking
+
 Timer beeps when time is up
 
 ### Intended Use
